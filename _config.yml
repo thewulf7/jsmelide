@@ -10,5 +10,5 @@ github:
   repository_name: jsmelide.cz
   owner_name: thewulf7
   repository_url: https://github.com/thewulf7/jsmelide
-google_analytics:
+google_analytics: true
 theme: jekyll-theme-cayman
