@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
 
 {% seo %}
+    <link href="/assets/images/favicon.ico" rel="icon" type="image/x-icon">
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style" type="text/css" crossorigin>
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -31,6 +32,12 @@
       {{ content }}
 
       <footer class="site-footer">
+        <span class="site-footer-owner">Společnost bez hranic, z.s.</span>
+        <span class="site-footer-owner">IČ 19787022</span>
+        <span class="site-footer-owner">E-mail: <a href="mailto:spbh@email.cz">spbh@email.cz</a></span>
+        <span class="site-footer-owner">Datová schránka:  xruh266</span>
+        <span class="site-footer-owner">Tel. +420-775-447-629</span>
+          <br/>
         {% if site.github.is_project_page %}
           <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
         {% endif %}
