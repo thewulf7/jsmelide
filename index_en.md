@@ -4,6 +4,8 @@ layout: default
 
 ## Statement in connection with changes regarding the granting of citizenship of the Czech Republic to citizens of Russia
 
+[CZ](./index.md) | [EN](./index_en.md) | [RU](./index_ru.md)
+
 * * *
 
 On **19 March 2004** the Czech Republic ratified the 1997 European Convention on Nationality, which has been applied in the Czech Republic since July 2004. According to Article 16 of this Convention, a Member State should not make the acquisition or retention of its nationality conditional upon renunciation or loss of another nationality in cases where such renunciation or loss is not possible or cannot reasonably be required.
