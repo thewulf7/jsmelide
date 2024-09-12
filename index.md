@@ -4,6 +4,8 @@ layout: default
 
 ## Prohlášení v souvislosti se změnami ohledně udělení státního občanství České republiky pro občany Ruska
 
+[CZ](./index.md) | [EN](./index_en.md) | [RU](./index_ru.md)
+
 * * *
 
 Dne **19.3.2004** Česká republika ratifikovala Evropskou úmluvu o státním občanství z roku 1997, která se na území České republiky aplikuje od července 2004. Podle článku 16 této úmluvy by členský stát neměl nabytí nebo zachování svého státního občanství podmiňovat zřeknutím se nebo pozbytím jiného státního občanství v případech, kdy takové zřeknutí se nebo pozbytí není možné nebo je nelze rozumně požadovat.
