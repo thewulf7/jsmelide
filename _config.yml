@@ -1,0 +1,14 @@
+title: Nejsme matrjošky. Jsme lidé!
+description: Statní občanství bez diskriminace!
+show_sign_petition: true
+show_sign_petition_gov: false
+petice:
+  com: https://www.petice.com/petice_za_statni_obanstvi_bez_diskriminace#form
+  gov: https://gov.cz
+github:  
+  is_project_page: true
+  repository_name: jsmelide.cz
+  owner_name: thewulf7
+  repository_url: https://github.com/thewulf7/jsmelide
+google_analytics:
+theme: jekyll-theme-cayman
