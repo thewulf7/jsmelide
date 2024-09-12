@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Prohlášení v souvislosti se změnami k získání státního občanství České republiky pro občany Ruska
+## Prohlášení v souvislosti se změnami ohledně udělení státního občanství České republiky pro občany Ruska
 
 * * *
 
