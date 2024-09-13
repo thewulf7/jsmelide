@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Statní občanství bez diskriminace!
 ---
 
 ## Prohlášení v souvislosti se změnami ohledně udělení státního občanství České republiky pro občany Ruska
