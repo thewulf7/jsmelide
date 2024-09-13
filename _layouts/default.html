@@ -21,11 +21,12 @@
       <h1 class="project-name">{{ site.title }}</h1>
       <h2 class="project-tagline page-header-secondary-text">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       {% if site.show_sign_petition %}
-        <a href="{{ site.petice.com }}" class="btn btn-caps" target="_blank">Podepsat petici</a>
+        <a href="{{ site.petice.com }}" class="btn btn-caps" target="_blank">Podepsat petici na petice.com</a>
       {% endif %}  
       {% if site.show_sign_petition_gov %}
-        <a href="{{ site.petice.gov }}" class="btn btn-caps" target="_blank">Podepsat petici gov.cz</a>
+        <a href="{{ site.petice.gov }}" class="btn btn-caps" target="_blank">Podepsat petici na gov.cz</a>
       {% endif %}
+      <p>(Prosíme vás, abyste petici podepsali na obou webových stránkách, pokud je to možné. Viz také: <a href="govcz.html">Jak podepsat petici na gov.cz?</a>)</p>
     </header>
 
     <main id="content" class="main-content" role="main">
