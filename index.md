@@ -11,7 +11,11 @@ title: Statní občanství bez diskriminace!
 
 Dne **19.3.2004** Česká republika ratifikovala Evropskou úmluvu o státním občanství z roku 1997, která se na území České republiky aplikuje od července 2004. Podle článku 16 této úmluvy by členský stát neměl nabytí nebo zachování svého státního občanství podmiňovat zřeknutím se nebo pozbytím jiného státního občanství v případech, kdy takové zřeknutí se nebo pozbytí není možné nebo je nelze rozumně požadovat.
 
+Také článek 21 Listiny základních práv Evropské unie výslovně zakazuje jakoukoli diskriminaci, a to i na základě státní příslušnosti. Listina je závazná a vztahuje se na všechny členské státy EU v případech, kdy je uplatňováno právo EU.
+
 Mezitím se v Parlamentu České republiky projednává diskriminační návrh zákona o [změně zákona č. 65/2022 Sb.](https://www.psp.cz/sqw/historie.sqw?o=9&t=727), „O některých opatřeních v souvislosti s ozbrojeným konfliktem na území Ukrajiny vyvolaným invazí vojsk Ruské federace“, který stanovuje vzdání se ruského občanství jako podmínku pro získání českého občanství pro jednu skupinu osob, konkrétně pro osoby s ruským občanstvím.
+
+Vzhledem k tomu, že novela je formulována poněkud zmatečně a právně negramotně, lze ji vykládat i tak, že znamená **zastavení projednávání všech žádostí o občanství ruských občanů** až do doby, kdy skončí platnost uvedeného zákona, který může platit ještě mnoho let. Ruští občané s pobytem na území České republiky tak mohou být zcela zbaveni možnosti žádat o české státní občanství na neomezeně dlouhou dobu, a protože se novela dotýká i projednávání již podaných žádostí, je porušena zásada zákazu retroaktivity zákona.
 
 V návrhu je uvedeno, že jeho cílem je _„ochrana bezpečnosti a zahraničněpolitických zájmů Česka“_. Autoři návrhu zákona však nijak nevysvětlují, jakým způsobem získání českého občanství osobami, které dlouhodobě žijí v Česku, jsou integrované do české společnosti a plně splňují požadavky zákona č. 186/2013 Sb., „O státním občanství České republiky“, by mohlo ohrozit Českou republiku, která není stranou ozbrojeného konfliktu. Není ani jasné, jak navrhované změny přispějí k naplnění cíle _„ochrany bezpečnosti a zahraničněpolitických zájmů Česka“_.
 
