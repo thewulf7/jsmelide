@@ -6,3 +6,17 @@
 .btn-caps {
     text-transform: uppercase;
 }
+
+
+.btn-action {
+    color: $btn-action-color;
+    background-color: $btn-action-bg-color;
+    border-color: $btn-action-border-color;
+  
+    &:hover {
+      color: $btn-action-hover-color;
+      text-decoration: none;
+      background-color: $btn-action-hover-bg-color;
+      border-color: $btn-action-hover-border-color;
+    }
+}

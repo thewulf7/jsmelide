@@ -4,7 +4,7 @@ layout: default
 
 ## Statement in connection with changes regarding the granting of citizenship of the Czech Republic to citizens of Russia
 
-[CZ](./index.md) | [EN](./index_en.md) | [RU](./index_ru.md)
+[CZ](./index.html) | [EN](./index_en.html) | [RU](./index_ru.html)
 
 * * *
 

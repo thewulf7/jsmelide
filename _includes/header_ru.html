@@ -1,0 +1,8 @@
+{% if site.show_sign_petition %}
+<a href="{{ site.petice.com }}" class="btn btn-caps" target="_blank">Подписать петицию на petice.com</a>
+{% endif %}  
+{% if site.show_sign_petition_gov %}
+<br/>
+<p>У вас есть bankovni identita или datovа schránkа? <br/> Если да, то пожалуйста, подпишите и вторую петицию.<br/> Эту версию мы отправим в Poslanecku sněmovnu.<br/> Подробнее: <a href="govcz_ru.html#content">Как подписать петицию на gov.cz?</a></p>
+{% include header-custom-ru.html %}
+{% endif %}

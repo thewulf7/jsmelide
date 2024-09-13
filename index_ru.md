@@ -4,7 +4,7 @@ layout: default
 
 ## Обращение в связи с изменениями в предоставлении гражданства Чешской Республики гражданам России
 
-[CZ](./index.md) | [EN](./index_en.md) | [RU](./index_ru.md)
+[CZ](./index.html) | [EN](./index_en.html) | [RU](./index_ru.html)
 
 * * *
 
