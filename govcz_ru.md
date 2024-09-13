@@ -4,6 +4,8 @@ layout: default
 
 ## Как подписать петицию на gov.cz
 
+[CZ](./govcz.md) | [EN](./govcz_en.md) | [RU](./govcz_ru.md)
+
 Нажмите «Подписать петицию»:
 
 ![](assets/images/govcz1.png)
