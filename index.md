@@ -1,10 +1,11 @@
 ---
 layout: default
+title: Statní občanství bez diskriminace!
 ---
 
 ## Prohlášení v souvislosti se změnami ohledně udělení státního občanství České republiky pro občany Ruska
 
-[CZ](./index.md) | [EN](./index_en.md) | [RU](./index_ru.md)
+[CZ](./index.html) | [EN](./index_en.html) | [RU](./index_ru.html)
 
 * * *
 
@@ -74,3 +75,7 @@ Možná by se měla média více věnovat naší protiválečné a humanitární
 ## Závěr
 
 Na základě výše uvedeného žádáme o pomoc při zajištění toho, aby novela, která zavádí povinnost zřeknutí se ruského občanství jako podmínku pro získání českého občanství, nebyla přijata. Tato změna nespravedlivě zkomplikuje život lidem, kteří si **vybrali Českou republiku jako svůj domov**, jsou zde plně integrováni, hovoří česky, platí daně, dodržují zákony a milují tuto zemi.
+
+<div class="page-header">
+{% include header.html %}
+</div>
