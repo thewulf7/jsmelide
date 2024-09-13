@@ -4,6 +4,8 @@ layout: default
 
 ## How to sign a petition on gov.cz
 
+[CZ](./govcz.md) | [EN](./govcz_en.md) | [RU](./govcz_ru.md)
+
 Click “Sign the petition”:
 
 ![](assets/images/govcz1.png).
