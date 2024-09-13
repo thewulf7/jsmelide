@@ -3,6 +3,8 @@ layout: default
 ---
 ## Jak podepsat petici na gov.cz
 
+[CZ](./govcz.md) | [EN](./govcz_en.md) | [RU](./govcz_ru.md)
+
 Klikněte na tlačítko „Podepsat petici“:
 
 ![](assets/images/govcz1.png).
