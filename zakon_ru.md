@@ -11,10 +11,15 @@ layout: default
 На рассмотрении Парламента Чешской республики находится законопроект  о внесении изменений в Закон № 65/2022 Сб. «О некоторых мерах в связи с вооружённым конфликтом на территории Украины, вызванным вторжением войск Российской Федерации». 
 Указанный законопроект в части § 7x, § 7y, Přechodné ustanovení не соответствует критериям законности, европейским и международным стандартам в области прав человека и представляет собой образец плохой юридической техники, что подтверждается следующим:
 1. Законопроект, содержащий положения о гражданстве, вносит изменения не в специальный Zákon č. 186/2013 Sb. o státním občanství České republiky, а в закон № 65/2022 Сб., регулирующий совершенно иные отношения, принятый во исполнение конкретных постановлений Европейского Союза, что прямо говорится в Předmět úpravy указанного закона, содержащего закрытый, исчерпывающий перечень вопросов, указанных в Předmět úpravy:
+
   a) _podmínky udělování dočasné ochrany cizinců uvedených v § 3 v návaznosti na prováděcí rozhodnutí Rady (EU) 2022/382 ze dne 4. března 2022, kterým se stanoví, že nastal případ hromadného přílivu vysídlených osob z Ukrajiny ve smyslu článku 5 směrnice 2001/55/ES, a kterým se zavádí jejich dočasná ochrana, (dále jen „rozhodnutí Rady“) a v návaznosti na rozhodnutí Rady Evropské unie o prodloužení dočasné ochrany podmínky jejího prodlužování,_
+
   b) _poskytování ubytování a souvisejících služeb osobám s udělenou dočasnou ochranou,_
+
   c) _asistovaný dobrovolný návrat_
+
   d) _zvláštní pravidla pro poskytování zdravotních služeb a_
+
   e) _evidenci vozidel se státní poznávací značkou Ukrajiny (dále jen „evidence ukrajinských vozidel“)._
 
   Между тем постановления Европейского союза не содержат положений, касающихся чешского гражданства и отношения гражданства никак не перечислены в предмете регулирования данного закона.
