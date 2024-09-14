@@ -82,3 +82,7 @@ Perhaps the media should pay more attention to our anti-war and humanitarian act
 ## Conclusion
 
 Based on the above, we ask for help in ensuring that the amendment, which introduces the obligation to renounce Russian citizenship as a condition for obtaining Czech citizenship, is not adopted. This change will unfairly complicate life for people who have **chosen the Czech Republic as their home**, are fully integrated here, speak Czech, pay taxes, obey the laws and love this country.
+
+
+See also: **[Legal analysis of the amendments](./zakon_en.html)**
+
