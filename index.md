@@ -7,6 +7,8 @@ title: Statní občanství bez diskriminace!
 
 [CZ](./index.html) | [EN](./index_en.html) | [RU](./index_ru.html)
 
+**Viz také: [Právní analýza](./zakon.md)**
+
 * * *
 
 Dne **19.3.2004** Česká republika ratifikovala Evropskou úmluvu o státním občanství z roku 1997, která se na území České republiky aplikuje od července 2004. Podle článku 16 této úmluvy by členský stát neměl nabytí nebo zachování svého státního občanství podmiňovat zřeknutím se nebo pozbytím jiného státního občanství v případech, kdy takové zřeknutí se nebo pozbytí není možné nebo je nelze rozumně požadovat.
@@ -15,7 +17,7 @@ Také článek 21 Listiny základních práv Evropské unie výslovně zakazuje 
 
 Mezitím se v Parlamentu České republiky projednává diskriminační návrh zákona o [změně zákona č. 65/2022 Sb.](https://www.psp.cz/sqw/historie.sqw?o=9&t=727), „O některých opatřeních v souvislosti s ozbrojeným konfliktem na území Ukrajiny vyvolaným invazí vojsk Ruské federace“, který stanovuje vzdání se ruského občanství jako podmínku pro získání českého občanství pro jednu skupinu osob, konkrétně pro osoby s ruským občanstvím.
 
-Uvedený návrh zákona nesplňuje kritéria zákonnosti, evropské a mezinárodní lidskoprávní standardy a představuje příklad špatné právní techniky ve smyslu § 7x, § 7y, Přechodných ustanovení. Tento návrh zákona nemá znaky právní jistoty a vymahatelnosti.
+Uvedený návrh zákona nesplňuje kritéria zákonnosti, evropské a mezinárodní lidskoprávní standardy a představuje příklad špatné právní techniky ve smyslu § 7x, § 7y, Přechodných ustanovení. Tento návrh zákona nemá znaky právní jistoty a vymahatelnosti. **Viz také: [Právní analýza](./zakon.md)**
 
 Rovněž vzhledem k tomu, že novela je formulována poměrně zmatečně a právně negramotně, lze ji vykládat tak, že znamená **zastavení projednávání všech žádostí o udělení státního občanství občanů Ruské federace** až do konce platnosti uvedeného zákona, který může platit ještě mnoho let. Tím mohou být občané Ruské federace pobývající na území České republiky zcela zbaveni možnosti žádat o udělení českého státního občanství na neurčitou dobu, a protože se novela dotýká i projednávání již podaných žádostí, dochází k porušení zásady zákazu retroaktivity zákona. Z právního rozboru novely vyplývá, že pozastavení účinnosti zákona pro skupinu osob, zbavení jejich práv a uložení povinností, které zvláštní zákon o státním občanství upravující tyto vztahy nestanoví, je nezákonné, neodůvodněné a v demokratickém státě k němu nemůže dojít.
 
