@@ -84,6 +84,10 @@ Možná by se měla média více věnovat naší protiválečné a humanitární
 
 Na základě výše uvedeného žádáme o pomoc při zajištění toho, aby novela, která zavádí povinnost zřeknutí se ruského občanství jako podmínku pro získání českého občanství a případně pozastavení vyřizování žádostí o občanství, nebyla přijata. Tato změna nespravedlivě zkomplikuje život lidem, kteří si **vybrali Českou republiku jako svůj domov**, jsou zde plně integrováni, hovoří česky, platí daně, dodržují zákony a milují tuto zemi.
 
+
+**Viz také: [Právní analýza](./zakon.html)**
+
+
 <div class="page-header">
 {% include header.html %}
 </div>
