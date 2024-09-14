@@ -6,11 +6,19 @@ layout: default
 
 [CZ](./index.html) | [EN](./index_en.html) | [RU](./index_ru.html)
 
+See also: **[Legal analysis of the amendments](./zakon_en.html)**
+
 * * *
 
 On **19 March 2004** the Czech Republic ratified the 1997 European Convention on Nationality, which has been applied in the Czech Republic since July 2004. According to Article 16 of this Convention, a Member State should not make the acquisition or retention of its nationality conditional upon renunciation or loss of another nationality in cases where such renunciation or loss is not possible or cannot reasonably be required.
 
+Also Article 21 of the Charter of Fundamental Rights of the European Union explicitly prohibits any discrimination, including on the basis of nationality. The Charter is binding and applies to all EU member states in cases of implementation of EU law.
+
 In the meantime, a discriminatory bill on [amending Act No. 65/2022 Sb.](https://www.psp.cz/sqw/historie.sqw?o=9&t=727), "On certain measures in connection with the armed conflict on the territory of Ukraine caused by the invasion of the Russian Federation troops", is being debated in the Parliament of the Czech Republic, which sets renunciation of Russian citizenship as a condition for one group of persons, namely persons with Russian citizenship, to obtain Czech citizenship.
+
+The said draft law in the part of § 7x, § 7y, Přechodné ustanovení does not comply with the criteria of legality, European and international human rights standards and represents an example of poor legal technique. This draft law lacks the attributes of legal certainty and enforceability. See also: **[Legal analysis of the amendments](./zakon_en.html)**
+
+Also, since the amendment is formulated in a rather confusing and legally illiterate manner, it can be interpreted in such a way that it implies **stopping the consideration of all applications for citizenship from citizens of the Russian Federation** until the end of the mentioned law, which may be valid for many more years. Thus, Russian citizens residing in the territory of the Czech Republic may be completely deprived of the possibility to apply for Czech citizenship for an indefinite period of time, and since the amendment also affects the consideration of already submitted applications, the principle of non-retroactivity of the law is violated. Legal analysis of the amendments shows that suspending the law for a group of persons, depriving them of their rights and imposing obligations not provided for by the special Citizenship Act regulating these relations is illegal, unjustified and cannot take place in a democratic country.
 
 The proposal states that its aim is to _"protect the security and foreign policy interests of the Czech Republic"_. However, the authors of the draft law do not explain how the acquisition of Czech citizenship by persons who have lived in the Czech Republic for a long time, have been integrated into Czech society and fully meet the requirements of Act No. 186/2013 Sb., "On the State Citizenship of the Czech Republic", could endanger the Czech Republic, which is not a party to the armed conflict. It is not even clear how the proposed amendments will contribute to the objective of _"protecting the security and foreign policy interests of the Czech Republic"_.
 
@@ -74,3 +82,12 @@ Perhaps the media should pay more attention to our anti-war and humanitarian act
 ## Conclusion
 
 Based on the above, we ask for help in ensuring that the amendment, which introduces the obligation to renounce Russian citizenship as a condition for obtaining Czech citizenship, is not adopted. This change will unfairly complicate life for people who have **chosen the Czech Republic as their home**, are fully integrated here, speak Czech, pay taxes, obey the laws and love this country.
+
+
+See also: **[Legal analysis of the amendments](./zakon_en.html)**
+
+<div class="page-header">
+{% include header_en.html %}
+</div>
+
+
