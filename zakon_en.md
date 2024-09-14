@@ -8,7 +8,7 @@ layout: default
 
 * * *
 The Parliament of the Czech Republic is considering a bill amending Act No. 65/2022 Coll. “On Certain Measures in Connection with the Armed Conflict on the Territory of Ukraine Caused by the Invasion of the Russian Federation troops”. 
-The said draft law in the part of § 7x, § 7y, Přechodné ustanovení does not meet the criteria of legality, European and international human rights standards and represents a sample of poor legal technique, which is confirmed by the following:
+The said draft law in the part of § 7x, § 7y, Transitional Provisions does not meet the criteria of legality, European and international human rights standards and represents a sample of poor legal technique, which is confirmed by the following:
 
 The draft law, specifically in sections § 7x, § 7y, Transitional Provisions, does not meet the criteria of legality, European and international human rights standards, and represents an example of poor legal drafting, as confirmed by the following:
 
