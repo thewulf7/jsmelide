@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Právní analýza předlohy
+## Právní rozbor
 
 [CZ](./zakon.html) | [EN](./zakon_en.html) | [RU](./zakon_ru.html)
 
