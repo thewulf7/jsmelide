@@ -15,7 +15,7 @@ Dne **19.3.2004** Česká republika ratifikovala Evropskou úmluvu o státním o
 
 Také článek 21 Listiny základních práv Evropské unie výslovně zakazuje jakoukoli diskriminaci, a to i na základě státní příslušnosti. Listina je závazná a vztahuje se na všechny členské státy EU v případech, kdy je uplatňováno právo EU.
 
-Mezitím se v Parlamentu České republiky projednává diskriminační návrh zákona o [změně zákona č. 65/2022 Sb.](https://www.psp.cz/sqw/historie.sqw?o=9&t=727), „O některých opatřeních v souvislosti s ozbrojeným konfliktem na území Ukrajiny vyvolaným invazí vojsk Ruské federace“, který stanovuje vzdání se ruského občanství jako podmínku pro získání českého občanství pro jednu skupinu osob, konkrétně pro osoby s ruským občanstvím.
+Mezitím se v Parlamentu České republiky projednává [diskriminační návrh](https://www.psp.cz/sqw/text/orig2.sqw?idd=244959) zákona o změně zákona č. [65/2022 Sb.](https://www.psp.cz/sqw/historie.sqw?o=9&t=727), „O některých opatřeních v souvislosti s ozbrojeným konfliktem na území Ukrajiny vyvolaným invazí vojsk Ruské federace“, který stanovuje vzdání se ruského občanství jako podmínku pro získání českého občanství pro jednu skupinu osob, konkrétně pro osoby s ruským občanstvím.
 
 Uvedený návrh zákona nesplňuje kritéria zákonnosti, evropské a mezinárodní lidskoprávní standardy a představuje příklad špatné právní techniky ve smyslu § 7x, § 7y, Přechodných ustanovení. Tento návrh zákona nemá znaky právní jistoty a vymahatelnosti. **Viz také: [Právní analýza](./zakon.html)**
 

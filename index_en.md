@@ -14,7 +14,7 @@ On **19 March 2004** the Czech Republic ratified the 1997 European Convention on
 
 Also Article 21 of the Charter of Fundamental Rights of the European Union explicitly prohibits any discrimination, including on the basis of nationality. The Charter is binding and applies to all EU member states in cases of implementation of EU law.
 
-In the meantime, a discriminatory bill on [amending Act No. 65/2022 Sb.](https://www.psp.cz/sqw/historie.sqw?o=9&t=727), "On certain measures in connection with the armed conflict on the territory of Ukraine caused by the invasion of the Russian Federation troops", is being debated in the Parliament of the Czech Republic, which sets renunciation of Russian citizenship as a condition for one group of persons, namely persons with Russian citizenship, to obtain Czech citizenship.
+In the meantime, a [discriminatory bill](https://www.psp.cz/sqw/text/orig2.sqw?idd=244959) on [amending Act No. 65/2022 Sb.](https://www.psp.cz/sqw/historie.sqw?o=9&t=727), "On certain measures in connection with the armed conflict on the territory of Ukraine caused by the invasion of the Russian Federation troops", is being debated in the Parliament of the Czech Republic, which sets renunciation of Russian citizenship as a condition for one group of persons, namely persons with Russian citizenship, to obtain Czech citizenship.
 
 The said draft law in the part of § 7x, § 7y, Přechodné ustanovení does not comply with the criteria of legality, European and international human rights standards and represents an example of poor legal technique. This draft law lacks the attributes of legal certainty and enforceability. See also: **[Legal analysis of the amendments](./zakon_en.html)**
 
