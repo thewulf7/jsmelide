@@ -1,8 +1,8 @@
+{% if site.show_sign_petition_gov %}
+{% include header-custom.html %}
+<p style="font-size: 0.5em;">Vám bude potřeba NIA nebo bankovní identita nebo datová schránka. <br/> Připravili jsme pro vás návod: <a href="govcz.html#content">Jak podepsat petici na gov.cz?</a>. Tuto verzi pošleme do Poslanecké sněmovny, ale prosíme vás, abyste petici podepsali na obou webových stránkách.</p>
+{% endif %}
 {% if site.show_sign_petition %}
+<br/>
 <a href="{{ site.petice.com }}" class="btn btn-caps" target="_blank">Podepsat petici na petice.com</a>
 {% endif %}  
-{% if site.show_sign_petition_gov %}
-<br/>
-<p>Máte NIA nebo bankovní identitu nebo datovou schránku? <br/> Pokud ano, prosíme vás, abyste petici podepsali na obou webových stránkách.<br/> Tuto verzi pošleme do Poslanecké sněmovny.<br/> Viz také: <a href="govcz.html#content">Jak podepsat petici na gov.cz?</a></p>
-{% include header-custom.html %}
-{% endif %}
