@@ -18,6 +18,8 @@ Click «Podepsat»:
 
 ![](assets/images/govcz1.png).
 
+_If you get a 404 error message when you click on a button on the portal, try doing the same in another web browser. This is a known glitch with the state portal._
+
 Then there are two options: **sign via bank ID**, or via **NIA**, which is easy to do if you have databox (datova schranka).
 
 ## Option 1, sign via bank ID:

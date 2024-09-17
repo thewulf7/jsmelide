@@ -18,6 +18,8 @@ Klikněte na tlačítko „Podepsat petici“:
 
 ![](assets/images/govcz1.png).
 
+_Pokud se vám po kliknutí na tlačítko na portálu zobrazí chybová zpráva 404, zkuste to samé provést v jiném webovém prohlížeči. Jedná se o známou závadu státního portálu._
+
 Pak jsou dvě možnosti: **podepsat přes bankovní ID** nebo **přes NIA**, což je snadné, pokud máte datovou schránku.
 
 ## Možnost 1, podpis přes bankovní ID:
