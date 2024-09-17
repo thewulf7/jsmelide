@@ -1,8 +1,9 @@
-{% if site.show_sign_petition %}
-<a href="{{ site.petice.com }}" class="btn btn-caps" target="_blank">Sign petition on petice.com</a>
-{% endif %}  
 {% if site.show_sign_petition_gov %}
-<br/>
-<p>Do you have bankovni identita or datovа schránkа? <br/> If yes, then please sign both petitions.<br/> Second petition will be sent to Poslanecka sněmovna.<br/> More: <a href="govcz_ru.html#content">How to sign petition on gov.cz?</a></p>
 {% include header-custom-en.html %}
+<p>You will need NIA or bank identity or a data mailbox(datovа schránkа). <br/> We have prepared instructions for you: <a href="govcz.html#content">How to sign the petition on gov.cz?</a>. We will send this version to the Chamber of Deputies(Poslanecka sněmovna), but we kindly ask you to sign the petition on both websites.</p>
+{% endif %}
+{% if site.show_sign_petition %}
+<br/>
+<a href="{{ site.petice.com }}" class="btn btn-caps btn-action" target="_blank">Sign the petition on petice.com</a>
+<p class="page-header-secondary-text">Please, after filling out the form, don't forget to confirm your vote by clicking on the link in the email, otherwise it will not be counted.</p>
 {% endif %}
