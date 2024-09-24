@@ -12,6 +12,7 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
+    <script src="/assets/js/load_counters.js"></script>
   </head>
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
@@ -24,7 +25,7 @@
         {% include header.html %}
       {% elsif page.url == "/index_ru.html" %}
         {% include header_ru.html %}
-      {% elsif page.url == "/index_en.html" %}  
+      {% elsif page.url == "/index_en.html" %}
         {% include header_en.html %}
       {% endif %}
     </header>
